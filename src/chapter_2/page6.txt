@@ -1,2 +1,2 @@
 everything is alright
-java is cool
+editor:java is cool
